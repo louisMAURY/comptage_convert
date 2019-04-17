@@ -1,0 +1,151 @@
+{
+    "nom": "Dictionnaires",
+	"mot-arabe": [
+        {
+			"autochtone": "zéro",
+			"arabe": 0
+        },
+		{
+			"autochtone": "un",
+			"arabe": 1
+        },
+        {
+			"autochtone": "deux",
+			"arabe": 2
+        },
+        {
+			"autochtone": "trois",
+			"arabe": 3
+        },
+        {
+			"autochtone": "quatre",
+			"arabe": 4
+        },
+        {
+			"autochtone": "cinq",
+			"arabe": 5
+        },
+        {
+			"autochtone": "six",
+			"arabe": 6
+        },
+        {
+			"autochtone": "sept",
+			"arabe": 7
+        },
+{
+			"autochtone": "huit",
+			"arabe": 8
+        },
+{
+			"autochtone": "neuf",
+			"arabe": 9
+        },
+{
+			"autochtone": "dix",
+			"arabe": 10
+        },
+{
+			"autochtone": "onze",
+			"arabe": 11
+        },
+{
+			"autochtone": "douze",
+			"arabe": 12
+        },
+{
+			"autochtone": "treize",
+			"arabe": 13
+        },
+{
+			"autochtone": "quatorze",
+			"arabe": 14
+        },
+{
+			"autochtone": "quinze",
+			"arabe": 15
+        },
+{
+			"autochtone": "seize",
+			"arabe": 16
+        },
+{
+			"autochtone": "vingt",
+			"arabe": 20
+        },
+{
+			"autochtone": "trente",
+			"arabe": 30
+        },
+{
+			"autochtone": "quarante",
+			"arabe": 40
+        },
+{
+			"autochtone": "cinquante",
+			"arabe": 50
+        },
+{
+			"autochtone": "soixante",
+			"arabe": 60
+        },
+{
+			"autochtone": "septante",
+			"arabe": 70
+        },
+{
+			"autochtone": "octante",
+			"arabe": 80
+        },
+{
+			"autochtone": "nonante",
+			"arabe": 90
+        },
+{
+			"autochtone": "cent",
+			"arabe": 100
+        },
+{
+			"autochtone": "mille",
+			"arabe": 1000
+        },
+{
+			"autochtone": "million",
+			"arabe": 1000000
+        },
+{
+			"autochtone": "milliard",
+			"arabe": 1000000000
+        }
+    ],
+		"romain-arabe": [
+        {
+			"autochtone": "I",
+			"arabe": 1
+        },
+        {
+			"autochtone": "V",
+			"arabe": 5
+        },
+        {
+			"autochtone": "X",
+			"arabe": 10
+        },
+        {
+			"autochtone": "L",
+			"arabe": 50
+        },
+        {
+			"autochtone": "C",
+			"arabe": 100
+        },
+        {
+			"autochtone": "D",
+			"arabe": 500
+        },
+        {
+			"autochtone": "M",
+			"arabe": 1000
+        }
+    ]
+}
