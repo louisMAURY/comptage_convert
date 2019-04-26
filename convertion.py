@@ -4,12 +4,15 @@ with open("dict-conv-chiffre.txt" , "r" , encoding = "utf8") as dictionary:
     content = dictionary.readlines()
 
 
-
+def find(number_find):
+    list_number_finds = []
+    list_number_finds.append(number_find)
+    print(list_number_finds)
 
 
 user_input_literal = input("Entrez votre numéro (en lettre): ")
 
-def calcul(input_literal , the_dic):
+def lecture(input_literal , the_dic):
     for element in the_dic:
         result = element.strip("\n")
         list_number.append(result)
@@ -21,9 +24,8 @@ def calcul(input_literal , the_dic):
     for word in worklist:
         for number in list_number:
             if word == number:
-                
-                print(find)
+                find(word)
             else:
                 print("ERREUR")
 
-calcul(user_input_literal , content)
+lecture(user_input_literal , content)
